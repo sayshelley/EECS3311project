@@ -1,0 +1,2 @@
+0,testaccount,0,testnumber,2021-04-22 00:00,2021-04-23 00:00,0,1,Pay by apple pay at 2021-04-21 22:00
+1,testaccount,1,testnumber,2021-04-22 00:00,2021-04-23 00:00,1,0
